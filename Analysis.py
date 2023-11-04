@@ -17,5 +17,5 @@ def best_next_numbers(file_path):
 
     return best_numbers
 
-file_path = 'your_file_path_here.csv'
+file_path = 'lotto_numbers.csv'
 print(best_next_numbers(file_path))
